@@ -1,0 +1,9 @@
+discord.py>=2.0.0
+python-dotenv
+requests
+beautifulsoup4
+aiohttp
+ollama
+deepl
+thefuzz[speedup]  # Added for fuzzy string matching (with optional C++ speedups)
+vaderSentiment    # Added for sentiment analysis
